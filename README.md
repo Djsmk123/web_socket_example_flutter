@@ -1,16 +1,20 @@
-# web_socket
+# web_socket Client application
 
-A new Flutter project.
+> Real time chat application built using Socket IO.
 
-## Getting Started
+> Read How to make server 
 
-This project is a starting point for a Flutter application.
+![Part 1](https://dev.to/djsmk123/flutter-python-web-socket-ft-socket-io-part-1-3icf) : Create python Socket IO server without connecting MYSQL.
 
-A few resources to get you started if this is your first Flutter project:
+![Part 2](https://dev.to/djsmk123/flutter-python-web-socket-ft-socket-io-part-2-3oi5) : Create python Socket IO server with connecting MYSQL.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Part 3](https://dev.to/djsmk123/flutter-python-web-socket-ft-socket-io-part-3-h45) : Create Flutter Client application for real time chat using socket IO python server. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Ouputs
+
+![image1](https://imgur.com/9QEppAu.png)
+
+![image2](https://imgur.com/ObLKi8Q.png)
+
+![image3](https://imgur.com/OhKihwR.png)
+
